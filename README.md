@@ -22,19 +22,7 @@
 | 17 治理机制 | 郭剑南(树根互联)，李天学(北理新源)       |
 
 
-## 评论以及分类标识
-分析Fabric对于对应条例的支持，可分为以下情形
-- ![不满足](https://img.shields.io/badge/-%E4%B8%8D%E6%BB%A1%E8%B6%B3-critical) Fabric目前的架构和实现很难满足该条例的要求，应予以注意
-- ![可满足](https://img.shields.io/badge/-%E5%8F%AF%E6%BB%A1%E8%B6%B3-yellow)  服务提供商需要通过额外的增值服务、业务逻辑、软/硬件设施、或少量修改Fabric源码，满足条例要求
-- ![满足](https://img.shields.io/badge/-%E6%BB%A1%E8%B6%B3-brightgreen) Fabric已经满足该条例要求
-- ![不适用](https://img.shields.io/badge/-%E4%B8%8D%E9%80%82%E7%94%A8-lightgrey)  与Fabric无直接关系，或Fabric不满足条例的前提要求
-- ![不清晰](https://img.shields.io/badge/-%E4%B8%8D%E6%B8%85%E6%99%B0-blue)  条例中所作要求不够清晰，不足以做出判断
-- `定义`  该条例仅陈述定义，未做具体要求
-
-## 相关措施，备注
-为了满足该条例要求，Fabric开发者，应用开发者，以及Fabric提供商应当采取的措施，以及需要注意的事项
-
-## [正文](main-body.md) WIP
+## [正文](main-body.md)
                                                                
 
 ## 参考链接
