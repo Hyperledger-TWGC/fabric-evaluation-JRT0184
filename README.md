@@ -28,3 +28,5 @@
 ## 参考链接
 - [规范原文存档于fabric GM Wiki](https://github.com/Hyperledger-TWGC/fabric-gm-wiki/blob/master/%E5%8F%82%E8%80%83%E6%A0%87%E5%87%86/%E9%87%91%E8%9E%8D%E5%88%86%E5%B8%83%E5%BC%8F%E8%B4%A6%E6%9C%AC%E6%8A%80%E6%9C%AF%E5%AE%89%E5%85%A8%E8%A7%84%E8%8C%83.pdf)
 - [Beta版于腾讯文档](https://docs.qq.com/doc/DV1VMenFiQXBpeFZK?_t=1613374668034)
+## 合规案例
+- PeerSafe
